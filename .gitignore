@@ -1,0 +1,16 @@
+.venv/
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+literature_dataset/
+**/model_param/
+**/index_file/
+**/recall_result_file/
+*.pdparams
+*.pdopt
+*.pdmodel
+*.bin
+*.ipynb_checkpoints/
